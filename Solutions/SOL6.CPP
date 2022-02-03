@@ -10,7 +10,7 @@ void main()
 {
 	int a,b,c;
 	clrscr();
-	printf("Enter a number till you are draw pattern:");
+	printf("Enter a number till you are draw pattern:"); // you right  c but if you right row it is batter and nice
 	scanf("%d",&c);
 	for(a=1;a<=c;a++)
 		{
